@@ -1,0 +1,501 @@
+﻿tm_name;tm_position;nationality;age;club;last_update;market_value_euro
+Vitor Roque;Centroavante;Brasil;20;SE Palmeiras;10/12/2025;35000000.0
+Rayan;Centroavante;Brasil;19;CR Vasco da Gama;10/12/2025;25000000.0
+Yuri Alberto;Centroavante;Brasil;24;SC Corinthians;10/12/2025;22000000.0
+Kaio Jorge;Centroavante;Brasil;23;Cruzeiro EC;10/12/2025;22000000.0
+Danilo;Volante;Brasil;24;Botafogo FR;10/12/2025;22000000.0
+José Manuel López;Centroavante;Argentina;25;SE Palmeiras;10/12/2025;20000000.0
+Samuel Lino;Ponta Esquerda;Brasil;26;CR Flamengo;10/12/2025;20000000.0
+Pedro;Centroavante;Brasil;28;CR Flamengo;10/12/2025;18000000.0
+Gerson;Meia Central;Brasil;28;Cruzeiro EC;16/12/2025;18000000.0
+Andreas Pereira;Meia Ofensivo;Brasil;30;SE Palmeiras;10/12/2025;15000000.0
+Léo Ortiz;Zagueiro;Brasil;30;CR Flamengo;10/12/2025;15000000.0
+Giorgian de Arrascaeta;Meia Ofensivo;Uruguai;31;CR Flamengo;10/12/2025;15000000.0
+Joaquín Piquerez;Lateral Esq.;Uruguai;27;SE Palmeiras;10/12/2025;14000000.0
+Breno Bidon;Meia Central;Brasil;20;SC Corinthians;10/12/2025;14000000.0
+Martinelli;Volante;Brasil;24;Fluminense FC;10/12/2025;14000000.0
+Matheus Pereira;Meia Ofensivo;Brasil;29;Cruzeiro EC;10/12/2025;14000000.0
+Facundo Torres;Ponta Direita;Uruguai;25;SE Palmeiras;10/12/2025;13000000.0
+Mauricio;Meia Ofensivo;Brasil;24;SE Palmeiras;10/12/2025;12000000.0
+Paulinho;Ponta Esquerda;Brasil;25;SE Palmeiras;10/12/2025;12000000.0
+Jean Lucas;Meia Central;Brasil;27;EC Bahia;10/12/2025;12000000.0
+Rodrigo Garro;Meia Ofensivo;Argentina;28;SC Corinthians;10/12/2025;12000000.0
+Luis Sinisterra;Ponta Esquerda;Colômbia;26;Cruzeiro EC;10/12/2025;12000000.0
+Fabrício Bruno;Zagueiro;Brasil;29;Cruzeiro EC;10/12/2025;12000000.0
+Hércules;Meia Central;Brasil;25;Fluminense FC;10/12/2025;12000000.0
+Renan Lodi;Lateral Esq.;Brasil;27;Atlético Mineiro;21/10/2025;12000000.0
+Ramón Sosa;Ponta Esquerda;Paraguai;26;SE Palmeiras;10/12/2025;11000000.0
+Agustín Giay;Lateral Dir.;Argentina;21;SE Palmeiras;10/12/2025;11000000.0
+Luciano Juba;Lateral Esq.;Brasil;26;EC Bahia;10/12/2025;11000000.0
+Santiago Ramos Mingo;Zagueiro;Argentina;24;EC Bahia;10/12/2025;11000000.0
+Erick Pulga;Ponta Esquerda;Brasil;25;EC Bahia;10/12/2025;11000000.0
+Jhon Jhon;Meia Ofensivo;Brasil;23;RB Bragantino;10/12/2025;11000000.0
+Gabriel Brazão;Goleiro;Brasil;25;Santos FC;10/12/2025;11000000.0
+Raphael Veiga;Meia Ofensivo;Brasil;30;SE Palmeiras;10/12/2025;10000000.0
+Hugo Souza;Goleiro;Brasil;26;SC Corinthians;10/12/2025;10000000.0
+Allan;Meia Ofensivo;Brasil;21;SE Palmeiras;10/12/2025;10000000.0
+Vitão;Zagueiro;Brasil;25;CR Flamengo;10/12/2025;10000000.0
+Agustín Rossi;Goleiro;Argentina;30;CR Flamengo;10/12/2025;10000000.0
+Léo Pereira;Zagueiro;Brasil;29;CR Flamengo;10/12/2025;10000000.0
+Kaiki;Lateral Esq.;Brasil;22;Cruzeiro EC;10/12/2025;10000000.0
+Christian;Meia Central;Brasil;25;Cruzeiro EC;10/12/2025;10000000.0
+Álvaro Montoro;Meia Ofensivo;Argentina;18;Botafogo FR;10/12/2025;10000000.0
+Neymar;Meia Ofensivo;Brasil;33;Santos FC;10/12/2025;10000000.0
+Emiliano Martínez;Volante;Uruguai;26;SE Palmeiras;10/12/2025;9000000.0
+Robert Renan;Zagueiro;Brasil;22;CR Vasco da Gama;10/12/2025;9000000.0
+Matheus França;Meia Ofensivo;Brasil;21;CR Vasco da Gama;10/12/2025;9000000.0
+Nicolás de la Cruz;Meia Central;Uruguai;28;CR Flamengo;10/12/2025;9000000.0
+Jorge Carrascal;Meia Ofensivo;Colômbia;27;CR Flamengo;10/12/2025;9000000.0
+Keny Arroyo;Ponta Direita;Equador;19;Cruzeiro EC;10/12/2025;9000000.0
+Marcos Antônio;Meia Central;Brasil;25;São Paulo FC;10/12/2025;9000000.0
+Arthur Cabral;Centroavante;Brasil;27;Botafogo FR;10/12/2025;9000000.0
+Jefferson Savarino;Meia Ofensivo;Venezuela;29;Botafogo FR;10/12/2025;9000000.0
+Memphis Depay;Centroavante;Holanda;31;SC Corinthians;10/12/2025;8000000.0
+Gui Negão;Centroavante;Brasil;18;SC Corinthians;10/12/2025;8000000.0
+Gonzalo Plata;Ponta Direita;Equador;25;CR Flamengo;10/12/2025;8000000.0
+Emerson Royal;Lateral Dir.;Brasil;26;CR Flamengo;10/12/2025;8000000.0
+Vitinho;Lateral Dir.;Brasil;26;Botafogo FR;10/12/2025;8000000.0
+Isidro Pitta;Centroavante;Paraguai;26;RB Bragantino;10/12/2025;7500000.0
+Pablo Maia;Volante;Brasil;24;São Paulo FC;10/12/2025;7000000.0
+Lucas Piton;Lateral Esq.;Itália;25;CR Vasco da Gama;10/12/2025;7000000.0
+Carlos Cuesta;Zagueiro;Colômbia;26;CR Vasco da Gama;10/12/2025;7000000.0
+Léo Jardim;Goleiro;Brasil;30;CR Vasco da Gama;10/12/2025;7000000.0
+Caio Alexandre;Volante;Brasil;26;EC Bahia;10/12/2025;7000000.0
+Rodrigo Nestor;Meia Central;Brasil;25;EC Bahia;10/12/2025;7000000.0
+Guilherme Arana;Lateral Esq.;Brasil;28;Fluminense FC;10/12/2025;7000000.0
+Luiz Araújo;Ponta Direita;Brasil;29;CR Flamengo;10/12/2025;7000000.0
+Everton;Ponta Esquerda;Brasil;29;CR Flamengo;10/12/2025;7000000.0
+Ferreirinha;Ponta Esquerda;Brasil;28;São Paulo FC;10/12/2025;7000000.0
+David Ricardo;Zagueiro;Brasil;23;Botafogo FR;10/12/2025;7000000.0
+Artur;Ponta Direita;Brasil;27;Botafogo FR;10/12/2025;7000000.0
+Álvaro Barreal;Ponta Esquerda;Argentina;25;Santos FC;10/12/2025;7000000.0
+Benjamín Rollheiser;Ponta Direita;Argentina;25;Santos FC;10/12/2025;7000000.0
+Paulo Henrique;Lateral Dir.;Brasil;29;CR Vasco da Gama;10/12/2025;6000000.0
+Wallace Yan;Centroavante;Brasil;20;CR Flamengo;10/12/2025;6000000.0
+Natanael;Lateral Dir.;Brasil;24;Atlético Mineiro;10/12/2025;6000000.0
+Agustín Canobbio;Ponta Esquerda;Uruguai;27;Fluminense FC;10/12/2025;6000000.0
+Gabriel Menino;Meia Central;Brasil;25;Atlético Mineiro;10/12/2025;6000000.0
+Alexsander;Volante;Brasil;22;Atlético Mineiro;10/12/2025;6000000.0
+Tomás Cuello;Ponta Esquerda;Argentina;25;Atlético Mineiro;10/12/2025;6000000.0
+Alexandro Bernabei;Lateral Esq.;Argentina;25;SC Internacional;10/12/2025;6000000.0
+Gustavo Scarpa;Meia Ofensivo;Brasil;32;Atlético Mineiro;10/12/2025;6000000.0
+Kauã Prates;Lateral Esq.;Brasil;17;Cruzeiro EC;10/12/2025;6000000.0
+John Kennedy;Centroavante;Brasil;23;Fluminense FC;10/12/2025;6000000.0
+Facundo Bernal;Volante;Uruguai;22;Fluminense FC;10/12/2025;6000000.0
+Matheuzinho;Lateral Dir.;Brasil;25;SC Corinthians;10/12/2025;6000000.0
+Kayky;Ponta Direita;Brasil;22;EC Bahia;10/12/2025;6000000.0
+Matheus Martins;Ponta Esquerda;Brasil;22;Botafogo FR;10/12/2025;6000000.0
+Rodriguinho;Meia Ofensivo;Brasil;21;São Paulo FC;10/12/2025;6000000.0
+Ryan Francisco;Centroavante;Brasil;19;São Paulo FC;10/12/2025;6000000.0
+Khellven;Lateral Dir.;Brasil;24;SE Palmeiras;10/12/2025;6000000.0
+Marlon Freitas;Volante;Brasil;30;SE Palmeiras;10/12/2025;6000000.0
+Riquelme;Ponta Direita;Brasil;18;Fluminense FC;10/12/2025;6000000.0
+Santiago Rodríguez;Meia Ofensivo;Uruguai;26;Botafogo FR;10/12/2025;5500000.0
+Rony;Centroavante;Brasil;30;Atlético Mineiro;10/12/2025;5000000.0
+Francis Amuzu;Ponta Esquerda;Bélgica;26;Grêmio FBPA;10/12/2025;5000000.0
+Ayrton Lucas;Lateral Esq.;Brasil;28;CR Flamengo;10/12/2025;5000000.0
+Erick Pulgar;Volante;Chile;31;CR Flamengo;10/12/2025;5000000.0
+Murilo;Zagueiro;Brasil;28;SE Palmeiras;10/12/2025;5000000.0
+Robinho Junior;Ponta Esquerda;Brasil;18;Santos FC;10/12/2025;5000000.0
+Jorginho;Volante;Itália;34;CR Flamengo;10/12/2025;5000000.0
+Ruan Pablo;Ponta Esquerda;Brasil;17;EC Bahia;10/12/2025;5000000.0
+Gabriel Menino;Meia Central;Brasil;25;Atlético Mineiro;10/12/2025;6000000.0
+Alexsander;Volante;Brasil;22;Atlético Mineiro;10/12/2025;6000000.0
+Tomás Cuello;Ponta Esquerda;Argentina;25;Atlético Mineiro;10/12/2025;6000000.0
+Alexandro Bernabei;Lateral Esq.;Argentina;25;SC Internacional;10/12/2025;6000000.0
+Gustavo Scarpa;Meia Ofensivo;Brasil;32;Atlético Mineiro;10/12/2025;6000000.0
+Kauã Prates;Lateral Esq.;Brasil;17;Cruzeiro EC;10/12/2025;6000000.0
+John Kennedy;Centroavante;Brasil;23;Fluminense FC;10/12/2025;6000000.0
+Facundo Bernal;Volante;Uruguai;22;Fluminense FC;10/12/2025;6000000.0
+Matheuzinho;Lateral Dir.;Brasil;25;SC Corinthians;10/12/2025;6000000.0
+Kayky;Ponta Direita;Brasil;22;EC Bahia;10/12/2025;6000000.0
+Matheus Martins;Ponta Esquerda;Brasil;22;Botafogo FR;10/12/2025;6000000.0
+Rodriguinho;Meia Ofensivo;Brasil;21;São Paulo FC;10/12/2025;6000000.0
+Ryan Francisco;Centroavante;Brasil;19;São Paulo FC;10/12/2025;6000000.0
+Khellven;Lateral Dir.;Brasil;24;SE Palmeiras;10/12/2025;6000000.0
+Marlon Freitas;Volante;Brasil;30;SE Palmeiras;10/12/2025;6000000.0
+Riquelme;Ponta Direita;Brasil;18;Fluminense FC;10/12/2025;6000000.0
+Santiago Rodríguez;Meia Ofensivo;Uruguai;26;Botafogo FR;10/12/2025;5500000.0
+Rony;Centroavante;Brasil;30;Atlético Mineiro;10/12/2025;5000000.0
+Francis Amuzu;Ponta Esquerda;Bélgica;26;Grêmio FBPA;10/12/2025;5000000.0
+Ayrton Lucas;Lateral Esq.;Brasil;28;CR Flamengo;10/12/2025;5000000.0
+Erick Pulgar;Volante;Chile;31;CR Flamengo;10/12/2025;5000000.0
+Murilo;Zagueiro;Brasil;28;SE Palmeiras;10/12/2025;5000000.0
+Robinho Junior;Ponta Esquerda;Brasil;18;Santos FC;10/12/2025;5000000.0
+Jorginho;Volante;Itália;34;CR Flamengo;10/12/2025;5000000.0
+Ruan Pablo;Ponta Esquerda;Brasil;17;EC Bahia;10/12/2025;5000000.0
+Gabriel Menino;Meia Central;Brasil;25;Atlético Mineiro;10/12/2025;6000000.0
+Alexsander;Volante;Brasil;22;Atlético Mineiro;10/12/2025;6000000.0
+Tomás Cuello;Ponta Esquerda;Argentina;25;Atlético Mineiro;10/12/2025;6000000.0
+Alexandro Bernabei;Lateral Esq.;Argentina;25;SC Internacional;10/12/2025;6000000.0
+Gustavo Scarpa;Meia Ofensivo;Brasil;32;Atlético Mineiro;10/12/2025;6000000.0
+Kauã Prates;Lateral Esq.;Brasil;17;Cruzeiro EC;10/12/2025;6000000.0
+John Kennedy;Centroavante;Brasil;23;Fluminense FC;10/12/2025;6000000.0
+Facundo Bernal;Volante;Uruguai;22;Fluminense FC;10/12/2025;6000000.0
+Matheuzinho;Lateral Dir.;Brasil;25;SC Corinthians;10/12/2025;6000000.0
+Kayky;Ponta Direita;Brasil;22;EC Bahia;10/12/2025;6000000.0
+Matheus Martins;Ponta Esquerda;Brasil;22;Botafogo FR;10/12/2025;6000000.0
+Rodriguinho;Meia Ofensivo;Brasil;21;São Paulo FC;10/12/2025;6000000.0
+Ryan Francisco;Centroavante;Brasil;19;São Paulo FC;10/12/2025;6000000.0
+Khellven;Lateral Dir.;Brasil;24;SE Palmeiras;10/12/2025;6000000.0
+Marlon Freitas;Volante;Brasil;30;SE Palmeiras;10/12/2025;6000000.0
+Riquelme;Ponta Direita;Brasil;18;Fluminense FC;10/12/2025;6000000.0
+Santiago Rodríguez;Meia Ofensivo;Uruguai;26;Botafogo FR;10/12/2025;5500000.0
+Rony;Centroavante;Brasil;30;Atlético Mineiro;10/12/2025;5000000.0
+Francis Amuzu;Ponta Esquerda;Bélgica;26;Grêmio FBPA;10/12/2025;5000000.0
+Ayrton Lucas;Lateral Esq.;Brasil;28;CR Flamengo;10/12/2025;5000000.0
+Erick Pulgar;Volante;Chile;31;CR Flamengo;10/12/2025;5000000.0
+Murilo;Zagueiro;Brasil;28;SE Palmeiras;10/12/2025;5000000.0
+Robinho Junior;Ponta Esquerda;Brasil;18;Santos FC;10/12/2025;5000000.0
+Jorginho;Volante;Itália;34;CR Flamengo;10/12/2025;5000000.0
+Ruan Pablo;Ponta Esquerda;Brasil;17;EC Bahia;10/12/2025;5000000.0
+Gabriel Menino;Meia Central;Brasil;25;Atlético Mineiro;10/12/2025;6000000.0
+Alexsander;Volante;Brasil;22;Atlético Mineiro;10/12/2025;6000000.0
+Tomás Cuello;Ponta Esquerda;Argentina;25;Atlético Mineiro;10/12/2025;6000000.0
+Alexandro Bernabei;Lateral Esq.;Argentina;25;SC Internacional;10/12/2025;6000000.0
+Gustavo Scarpa;Meia Ofensivo;Brasil;32;Atlético Mineiro;10/12/2025;6000000.0
+Kauã Prates;Lateral Esq.;Brasil;17;Cruzeiro EC;10/12/2025;6000000.0
+John Kennedy;Centroavante;Brasil;23;Fluminense FC;10/12/2025;6000000.0
+Facundo Bernal;Volante;Uruguai;22;Fluminense FC;10/12/2025;6000000.0
+Matheuzinho;Lateral Dir.;Brasil;25;SC Corinthians;10/12/2025;6000000.0
+Kayky;Ponta Direita;Brasil;22;EC Bahia;10/12/2025;6000000.0
+Matheus Martins;Ponta Esquerda;Brasil;22;Botafogo FR;10/12/2025;6000000.0
+Rodriguinho;Meia Ofensivo;Brasil;21;São Paulo FC;10/12/2025;6000000.0
+Ryan Francisco;Centroavante;Brasil;19;São Paulo FC;10/12/2025;6000000.0
+Khellven;Lateral Dir.;Brasil;24;SE Palmeiras;10/12/2025;6000000.0
+Marlon Freitas;Volante;Brasil;30;SE Palmeiras;10/12/2025;6000000.0
+Riquelme;Ponta Direita;Brasil;18;Fluminense FC;10/12/2025;6000000.0
+Santiago Rodríguez;Meia Ofensivo;Uruguai;26;Botafogo FR;10/12/2025;5500000.0
+Rony;Centroavante;Brasil;30;Atlético Mineiro;10/12/2025;5000000.0
+Francis Amuzu;Ponta Esquerda;Bélgica;26;Grêmio FBPA;10/12/2025;5000000.0
+Ayrton Lucas;Lateral Esq.;Brasil;28;CR Flamengo;10/12/2025;5000000.0
+Erick Pulgar;Volante;Chile;31;CR Flamengo;10/12/2025;5000000.0
+Murilo;Zagueiro;Brasil;28;SE Palmeiras;10/12/2025;5000000.0
+Robinho Junior;Ponta Esquerda;Brasil;18;Santos FC;10/12/2025;5000000.0
+Jorginho;Volante;Itália;34;CR Flamengo;10/12/2025;5000000.0
+Ruan Pablo;Ponta Esquerda;Brasil;17;EC Bahia;10/12/2025;5000000.0
+Gabriel Menino;Meia Central;Brasil;25;Atlético Mineiro;10/12/2025;6000000.0
+Alexsander;Volante;Brasil;22;Atlético Mineiro;10/12/2025;6000000.0
+Tomás Cuello;Ponta Esquerda;Argentina;25;Atlético Mineiro;10/12/2025;6000000.0
+Alexandro Bernabei;Lateral Esq.;Argentina;25;SC Internacional;10/12/2025;6000000.0
+Gustavo Scarpa;Meia Ofensivo;Brasil;32;Atlético Mineiro;10/12/2025;6000000.0
+Kauã Prates;Lateral Esq.;Brasil;17;Cruzeiro EC;10/12/2025;6000000.0
+John Kennedy;Centroavante;Brasil;23;Fluminense FC;10/12/2025;6000000.0
+Facundo Bernal;Volante;Uruguai;22;Fluminense FC;10/12/2025;6000000.0
+Matheuzinho;Lateral Dir.;Brasil;25;SC Corinthians;10/12/2025;6000000.0
+Kayky;Ponta Direita;Brasil;22;EC Bahia;10/12/2025;6000000.0
+Matheus Martins;Ponta Esquerda;Brasil;22;Botafogo FR;10/12/2025;6000000.0
+Rodriguinho;Meia Ofensivo;Brasil;21;São Paulo FC;10/12/2025;6000000.0
+Ryan Francisco;Centroavante;Brasil;19;São Paulo FC;10/12/2025;6000000.0
+Khellven;Lateral Dir.;Brasil;24;SE Palmeiras;10/12/2025;6000000.0
+Marlon Freitas;Volante;Brasil;30;SE Palmeiras;10/12/2025;6000000.0
+Riquelme;Ponta Direita;Brasil;18;Fluminense FC;10/12/2025;6000000.0
+Santiago Rodríguez;Meia Ofensivo;Uruguai;26;Botafogo FR;10/12/2025;5500000.0
+Rony;Centroavante;Brasil;30;Atlético Mineiro;10/12/2025;5000000.0
+Francis Amuzu;Ponta Esquerda;Bélgica;26;Grêmio FBPA;10/12/2025;5000000.0
+Ayrton Lucas;Lateral Esq.;Brasil;28;CR Flamengo;10/12/2025;5000000.0
+Erick Pulgar;Volante;Chile;31;CR Flamengo;10/12/2025;5000000.0
+Murilo;Zagueiro;Brasil;28;SE Palmeiras;10/12/2025;5000000.0
+Robinho Junior;Ponta Esquerda;Brasil;18;Santos FC;10/12/2025;5000000.0
+Jorginho;Volante;Itália;34;CR Flamengo;10/12/2025;5000000.0
+Ruan Pablo;Ponta Esquerda;Brasil;17;EC Bahia;10/12/2025;5000000.0
+Gabriel Menino;Meia Central;Brasil;25;Atlético Mineiro;10/12/2025;6000000.0
+Alexsander;Volante;Brasil;22;Atlético Mineiro;10/12/2025;6000000.0
+Tomás Cuello;Ponta Esquerda;Argentina;25;Atlético Mineiro;10/12/2025;6000000.0
+Alexandro Bernabei;Lateral Esq.;Argentina;25;SC Internacional;10/12/2025;6000000.0
+Gustavo Scarpa;Meia Ofensivo;Brasil;32;Atlético Mineiro;10/12/2025;6000000.0
+Kauã Prates;Lateral Esq.;Brasil;17;Cruzeiro EC;10/12/2025;6000000.0
+John Kennedy;Centroavante;Brasil;23;Fluminense FC;10/12/2025;6000000.0
+Facundo Bernal;Volante;Uruguai;22;Fluminense FC;10/12/2025;6000000.0
+Matheuzinho;Lateral Dir.;Brasil;25;SC Corinthians;10/12/2025;6000000.0
+Kayky;Ponta Direita;Brasil;22;EC Bahia;10/12/2025;6000000.0
+Matheus Martins;Ponta Esquerda;Brasil;22;Botafogo FR;10/12/2025;6000000.0
+Rodriguinho;Meia Ofensivo;Brasil;21;São Paulo FC;10/12/2025;6000000.0
+Ryan Francisco;Centroavante;Brasil;19;São Paulo FC;10/12/2025;6000000.0
+Khellven;Lateral Dir.;Brasil;24;SE Palmeiras;10/12/2025;6000000.0
+Marlon Freitas;Volante;Brasil;30;SE Palmeiras;10/12/2025;6000000.0
+Riquelme;Ponta Direita;Brasil;18;Fluminense FC;10/12/2025;6000000.0
+Santiago Rodríguez;Meia Ofensivo;Uruguai;26;Botafogo FR;10/12/2025;5500000.0
+Rony;Centroavante;Brasil;30;Atlético Mineiro;10/12/2025;5000000.0
+Francis Amuzu;Ponta Esquerda;Bélgica;26;Grêmio FBPA;10/12/2025;5000000.0
+Ayrton Lucas;Lateral Esq.;Brasil;28;CR Flamengo;10/12/2025;5000000.0
+Erick Pulgar;Volante;Chile;31;CR Flamengo;10/12/2025;5000000.0
+Murilo;Zagueiro;Brasil;28;SE Palmeiras;10/12/2025;5000000.0
+Robinho Junior;Ponta Esquerda;Brasil;18;Santos FC;10/12/2025;5000000.0
+Jorginho;Volante;Itália;34;CR Flamengo;10/12/2025;5000000.0
+Ruan Pablo;Ponta Esquerda;Brasil;17;EC Bahia;10/12/2025;5000000.0
+Gabriel Menino;Meia Central;Brasil;25;Atlético Mineiro;10/12/2025;6000000.0
+Alexsander;Volante;Brasil;22;Atlético Mineiro;10/12/2025;6000000.0
+Tomás Cuello;Ponta Esquerda;Argentina;25;Atlético Mineiro;10/12/2025;6000000.0
+Alexandro Bernabei;Lateral Esq.;Argentina;25;SC Internacional;10/12/2025;6000000.0
+Gustavo Scarpa;Meia Ofensivo;Brasil;32;Atlético Mineiro;10/12/2025;6000000.0
+Kauã Prates;Lateral Esq.;Brasil;17;Cruzeiro EC;10/12/2025;6000000.0
+John Kennedy;Centroavante;Brasil;23;Fluminense FC;10/12/2025;6000000.0
+Facundo Bernal;Volante;Uruguai;22;Fluminense FC;10/12/2025;6000000.0
+Matheuzinho;Lateral Dir.;Brasil;25;SC Corinthians;10/12/2025;6000000.0
+Kayky;Ponta Direita;Brasil;22;EC Bahia;10/12/2025;6000000.0
+Matheus Martins;Ponta Esquerda;Brasil;22;Botafogo FR;10/12/2025;6000000.0
+Rodriguinho;Meia Ofensivo;Brasil;21;São Paulo FC;10/12/2025;6000000.0
+Ryan Francisco;Centroavante;Brasil;19;São Paulo FC;10/12/2025;6000000.0
+Khellven;Lateral Dir.;Brasil;24;SE Palmeiras;10/12/2025;6000000.0
+Marlon Freitas;Volante;Brasil;30;SE Palmeiras;10/12/2025;6000000.0
+Riquelme;Ponta Direita;Brasil;18;Fluminense FC;10/12/2025;6000000.0
+Santiago Rodríguez;Meia Ofensivo;Uruguai;26;Botafogo FR;10/12/2025;5500000.0
+Rony;Centroavante;Brasil;30;Atlético Mineiro;10/12/2025;5000000.0
+Francis Amuzu;Ponta Esquerda;Bélgica;26;Grêmio FBPA;10/12/2025;5000000.0
+Ayrton Lucas;Lateral Esq.;Brasil;28;CR Flamengo;10/12/2025;5000000.0
+Erick Pulgar;Volante;Chile;31;CR Flamengo;10/12/2025;5000000.0
+Murilo;Zagueiro;Brasil;28;SE Palmeiras;10/12/2025;5000000.0
+Robinho Junior;Ponta Esquerda;Brasil;18;Santos FC;10/12/2025;5000000.0
+Jorginho;Volante;Itália;34;CR Flamengo;10/12/2025;5000000.0
+Ruan Pablo;Ponta Esquerda;Brasil;17;EC Bahia;10/12/2025;5000000.0
+Gabriel Menino;Meia Central;Brasil;25;Atlético Mineiro;10/12/2025;6000000.0
+Alexsander;Volante;Brasil;22;Atlético Mineiro;10/12/2025;6000000.0
+Tomás Cuello;Ponta Esquerda;Argentina;25;Atlético Mineiro;10/12/2025;6000000.0
+Alexandro Bernabei;Lateral Esq.;Argentina;25;SC Internacional;10/12/2025;6000000.0
+Gustavo Scarpa;Meia Ofensivo;Brasil;32;Atlético Mineiro;10/12/2025;6000000.0
+Kauã Prates;Lateral Esq.;Brasil;17;Cruzeiro EC;10/12/2025;6000000.0
+John Kennedy;Centroavante;Brasil;23;Fluminense FC;10/12/2025;6000000.0
+Facundo Bernal;Volante;Uruguai;22;Fluminense FC;10/12/2025;6000000.0
+Matheuzinho;Lateral Dir.;Brasil;25;SC Corinthians;10/12/2025;6000000.0
+Kayky;Ponta Direita;Brasil;22;EC Bahia;10/12/2025;6000000.0
+Matheus Martins;Ponta Esquerda;Brasil;22;Botafogo FR;10/12/2025;6000000.0
+Rodriguinho;Meia Ofensivo;Brasil;21;São Paulo FC;10/12/2025;6000000.0
+Ryan Francisco;Centroavante;Brasil;19;São Paulo FC;10/12/2025;6000000.0
+Khellven;Lateral Dir.;Brasil;24;SE Palmeiras;10/12/2025;6000000.0
+Marlon Freitas;Volante;Brasil;30;SE Palmeiras;10/12/2025;6000000.0
+Riquelme;Ponta Direita;Brasil;18;Fluminense FC;10/12/2025;6000000.0
+Santiago Rodríguez;Meia Ofensivo;Uruguai;26;Botafogo FR;10/12/2025;5500000.0
+Rony;Centroavante;Brasil;30;Atlético Mineiro;10/12/2025;5000000.0
+Francis Amuzu;Ponta Esquerda;Bélgica;26;Grêmio FBPA;10/12/2025;5000000.0
+Ayrton Lucas;Lateral Esq.;Brasil;28;CR Flamengo;10/12/2025;5000000.0
+Erick Pulgar;Volante;Chile;31;CR Flamengo;10/12/2025;5000000.0
+Murilo;Zagueiro;Brasil;28;SE Palmeiras;10/12/2025;5000000.0
+Robinho Junior;Ponta Esquerda;Brasil;18;Santos FC;10/12/2025;5000000.0
+Jorginho;Volante;Itália;34;CR Flamengo;10/12/2025;5000000.0
+Ruan Pablo;Ponta Esquerda;Brasil;17;EC Bahia;10/12/2025;5000000.0
+Gabriel Menino;Meia Central;Brasil;25;Atlético Mineiro;10/12/2025;6000000.0
+Alexsander;Volante;Brasil;22;Atlético Mineiro;10/12/2025;6000000.0
+Tomás Cuello;Ponta Esquerda;Argentina;25;Atlético Mineiro;10/12/2025;6000000.0
+Alexandro Bernabei;Lateral Esq.;Argentina;25;SC Internacional;10/12/2025;6000000.0
+Gustavo Scarpa;Meia Ofensivo;Brasil;32;Atlético Mineiro;10/12/2025;6000000.0
+Kauã Prates;Lateral Esq.;Brasil;17;Cruzeiro EC;10/12/2025;6000000.0
+John Kennedy;Centroavante;Brasil;23;Fluminense FC;10/12/2025;6000000.0
+Facundo Bernal;Volante;Uruguai;22;Fluminense FC;10/12/2025;6000000.0
+Matheuzinho;Lateral Dir.;Brasil;25;SC Corinthians;10/12/2025;6000000.0
+Kayky;Ponta Direita;Brasil;22;EC Bahia;10/12/2025;6000000.0
+Matheus Martins;Ponta Esquerda;Brasil;22;Botafogo FR;10/12/2025;6000000.0
+Rodriguinho;Meia Ofensivo;Brasil;21;São Paulo FC;10/12/2025;6000000.0
+Ryan Francisco;Centroavante;Brasil;19;São Paulo FC;10/12/2025;6000000.0
+Khellven;Lateral Dir.;Brasil;24;SE Palmeiras;10/12/2025;6000000.0
+Marlon Freitas;Volante;Brasil;30;SE Palmeiras;10/12/2025;6000000.0
+Riquelme;Ponta Direita;Brasil;18;Fluminense FC;10/12/2025;6000000.0
+Santiago Rodríguez;Meia Ofensivo;Uruguai;26;Botafogo FR;10/12/2025;5500000.0
+Rony;Centroavante;Brasil;30;Atlético Mineiro;10/12/2025;5000000.0
+Francis Amuzu;Ponta Esquerda;Bélgica;26;Grêmio FBPA;10/12/2025;5000000.0
+Ayrton Lucas;Lateral Esq.;Brasil;28;CR Flamengo;10/12/2025;5000000.0
+Erick Pulgar;Volante;Chile;31;CR Flamengo;10/12/2025;5000000.0
+Murilo;Zagueiro;Brasil;28;SE Palmeiras;10/12/2025;5000000.0
+Robinho Junior;Ponta Esquerda;Brasil;18;Santos FC;10/12/2025;5000000.0
+Jorginho;Volante;Itália;34;CR Flamengo;10/12/2025;5000000.0
+Ruan Pablo;Ponta Esquerda;Brasil;17;EC Bahia;10/12/2025;5000000.0
+Gabriel Menino;Meia Central;Brasil;25;Atlético Mineiro;10/12/2025;6000000.0
+Alexsander;Volante;Brasil;22;Atlético Mineiro;10/12/2025;6000000.0
+Tomás Cuello;Ponta Esquerda;Argentina;25;Atlético Mineiro;10/12/2025;6000000.0
+Alexandro Bernabei;Lateral Esq.;Argentina;25;SC Internacional;10/12/2025;6000000.0
+Gustavo Scarpa;Meia Ofensivo;Brasil;32;Atlético Mineiro;10/12/2025;6000000.0
+Kauã Prates;Lateral Esq.;Brasil;17;Cruzeiro EC;10/12/2025;6000000.0
+John Kennedy;Centroavante;Brasil;23;Fluminense FC;10/12/2025;6000000.0
+Facundo Bernal;Volante;Uruguai;22;Fluminense FC;10/12/2025;6000000.0
+Matheuzinho;Lateral Dir.;Brasil;25;SC Corinthians;10/12/2025;6000000.0
+Kayky;Ponta Direita;Brasil;22;EC Bahia;10/12/2025;6000000.0
+Matheus Martins;Ponta Esquerda;Brasil;22;Botafogo FR;10/12/2025;6000000.0
+Rodriguinho;Meia Ofensivo;Brasil;21;São Paulo FC;10/12/2025;6000000.0
+Ryan Francisco;Centroavante;Brasil;19;São Paulo FC;10/12/2025;6000000.0
+Khellven;Lateral Dir.;Brasil;24;SE Palmeiras;10/12/2025;6000000.0
+Marlon Freitas;Volante;Brasil;30;SE Palmeiras;10/12/2025;6000000.0
+Riquelme;Ponta Direita;Brasil;18;Fluminense FC;10/12/2025;6000000.0
+Santiago Rodríguez;Meia Ofensivo;Uruguai;26;Botafogo FR;10/12/2025;5500000.0
+Rony;Centroavante;Brasil;30;Atlético Mineiro;10/12/2025;5000000.0
+Francis Amuzu;Ponta Esquerda;Bélgica;26;Grêmio FBPA;10/12/2025;5000000.0
+Ayrton Lucas;Lateral Esq.;Brasil;28;CR Flamengo;10/12/2025;5000000.0
+Erick Pulgar;Volante;Chile;31;CR Flamengo;10/12/2025;5000000.0
+Murilo;Zagueiro;Brasil;28;SE Palmeiras;10/12/2025;5000000.0
+Robinho Junior;Ponta Esquerda;Brasil;18;Santos FC;10/12/2025;5000000.0
+Jorginho;Volante;Itália;34;CR Flamengo;10/12/2025;5000000.0
+Ruan Pablo;Ponta Esquerda;Brasil;17;EC Bahia;10/12/2025;5000000.0
+Gabriel Menino;Meia Central;Brasil;25;Atlético Mineiro;10/12/2025;6000000.0
+Alexsander;Volante;Brasil;22;Atlético Mineiro;10/12/2025;6000000.0
+Tomás Cuello;Ponta Esquerda;Argentina;25;Atlético Mineiro;10/12/2025;6000000.0
+Alexandro Bernabei;Lateral Esq.;Argentina;25;SC Internacional;10/12/2025;6000000.0
+Gustavo Scarpa;Meia Ofensivo;Brasil;32;Atlético Mineiro;10/12/2025;6000000.0
+Kauã Prates;Lateral Esq.;Brasil;17;Cruzeiro EC;10/12/2025;6000000.0
+John Kennedy;Centroavante;Brasil;23;Fluminense FC;10/12/2025;6000000.0
+Facundo Bernal;Volante;Uruguai;22;Fluminense FC;10/12/2025;6000000.0
+Matheuzinho;Lateral Dir.;Brasil;25;SC Corinthians;10/12/2025;6000000.0
+Kayky;Ponta Direita;Brasil;22;EC Bahia;10/12/2025;6000000.0
+Matheus Martins;Ponta Esquerda;Brasil;22;Botafogo FR;10/12/2025;6000000.0
+Rodriguinho;Meia Ofensivo;Brasil;21;São Paulo FC;10/12/2025;6000000.0
+Ryan Francisco;Centroavante;Brasil;19;São Paulo FC;10/12/2025;6000000.0
+Khellven;Lateral Dir.;Brasil;24;SE Palmeiras;10/12/2025;6000000.0
+Marlon Freitas;Volante;Brasil;30;SE Palmeiras;10/12/2025;6000000.0
+Riquelme;Ponta Direita;Brasil;18;Fluminense FC;10/12/2025;6000000.0
+Santiago Rodríguez;Meia Ofensivo;Uruguai;26;Botafogo FR;10/12/2025;5500000.0
+Rony;Centroavante;Brasil;30;Atlético Mineiro;10/12/2025;5000000.0
+Francis Amuzu;Ponta Esquerda;Bélgica;26;Grêmio FBPA;10/12/2025;5000000.0
+Ayrton Lucas;Lateral Esq.;Brasil;28;CR Flamengo;10/12/2025;5000000.0
+Erick Pulgar;Volante;Chile;31;CR Flamengo;10/12/2025;5000000.0
+Murilo;Zagueiro;Brasil;28;SE Palmeiras;10/12/2025;5000000.0
+Robinho Junior;Ponta Esquerda;Brasil;18;Santos FC;10/12/2025;5000000.0
+Jorginho;Volante;Itália;34;CR Flamengo;10/12/2025;5000000.0
+Ruan Pablo;Ponta Esquerda;Brasil;17;EC Bahia;10/12/2025;5000000.0
+Gabriel Menino;Meia Central;Brasil;25;Atlético Mineiro;10/12/2025;6000000.0
+Alexsander;Volante;Brasil;22;Atlético Mineiro;10/12/2025;6000000.0
+Tomás Cuello;Ponta Esquerda;Argentina;25;Atlético Mineiro;10/12/2025;6000000.0
+Alexandro Bernabei;Lateral Esq.;Argentina;25;SC Internacional;10/12/2025;6000000.0
+Gustavo Scarpa;Meia Ofensivo;Brasil;32;Atlético Mineiro;10/12/2025;6000000.0
+Kauã Prates;Lateral Esq.;Brasil;17;Cruzeiro EC;10/12/2025;6000000.0
+John Kennedy;Centroavante;Brasil;23;Fluminense FC;10/12/2025;6000000.0
+Facundo Bernal;Volante;Uruguai;22;Fluminense FC;10/12/2025;6000000.0
+Matheuzinho;Lateral Dir.;Brasil;25;SC Corinthians;10/12/2025;6000000.0
+Kayky;Ponta Direita;Brasil;22;EC Bahia;10/12/2025;6000000.0
+Matheus Martins;Ponta Esquerda;Brasil;22;Botafogo FR;10/12/2025;6000000.0
+Rodriguinho;Meia Ofensivo;Brasil;21;São Paulo FC;10/12/2025;6000000.0
+Ryan Francisco;Centroavante;Brasil;19;São Paulo FC;10/12/2025;6000000.0
+Khellven;Lateral Dir.;Brasil;24;SE Palmeiras;10/12/2025;6000000.0
+Marlon Freitas;Volante;Brasil;30;SE Palmeiras;10/12/2025;6000000.0
+Riquelme;Ponta Direita;Brasil;18;Fluminense FC;10/12/2025;6000000.0
+Santiago Rodríguez;Meia Ofensivo;Uruguai;26;Botafogo FR;10/12/2025;5500000.0
+Rony;Centroavante;Brasil;30;Atlético Mineiro;10/12/2025;5000000.0
+Francis Amuzu;Ponta Esquerda;Bélgica;26;Grêmio FBPA;10/12/2025;5000000.0
+Ayrton Lucas;Lateral Esq.;Brasil;28;CR Flamengo;10/12/2025;5000000.0
+Erick Pulgar;Volante;Chile;31;CR Flamengo;10/12/2025;5000000.0
+Murilo;Zagueiro;Brasil;28;SE Palmeiras;10/12/2025;5000000.0
+Robinho Junior;Ponta Esquerda;Brasil;18;Santos FC;10/12/2025;5000000.0
+Jorginho;Volante;Itália;34;CR Flamengo;10/12/2025;5000000.0
+Ruan Pablo;Ponta Esquerda;Brasil;17;EC Bahia;10/12/2025;5000000.0
+Gabriel Menino;Meia Central;Brasil;25;Atlético Mineiro;10/12/2025;6000000.0
+Alexsander;Volante;Brasil;22;Atlético Mineiro;10/12/2025;6000000.0
+Tomás Cuello;Ponta Esquerda;Argentina;25;Atlético Mineiro;10/12/2025;6000000.0
+Alexandro Bernabei;Lateral Esq.;Argentina;25;SC Internacional;10/12/2025;6000000.0
+Gustavo Scarpa;Meia Ofensivo;Brasil;32;Atlético Mineiro;10/12/2025;6000000.0
+Kauã Prates;Lateral Esq.;Brasil;17;Cruzeiro EC;10/12/2025;6000000.0
+John Kennedy;Centroavante;Brasil;23;Fluminense FC;10/12/2025;6000000.0
+Facundo Bernal;Volante;Uruguai;22;Fluminense FC;10/12/2025;6000000.0
+Matheuzinho;Lateral Dir.;Brasil;25;SC Corinthians;10/12/2025;6000000.0
+Kayky;Ponta Direita;Brasil;22;EC Bahia;10/12/2025;6000000.0
+Matheus Martins;Ponta Esquerda;Brasil;22;Botafogo FR;10/12/2025;6000000.0
+Rodriguinho;Meia Ofensivo;Brasil;21;São Paulo FC;10/12/2025;6000000.0
+Ryan Francisco;Centroavante;Brasil;19;São Paulo FC;10/12/2025;6000000.0
+Khellven;Lateral Dir.;Brasil;24;SE Palmeiras;10/12/2025;6000000.0
+Marlon Freitas;Volante;Brasil;30;SE Palmeiras;10/12/2025;6000000.0
+Riquelme;Ponta Direita;Brasil;18;Fluminense FC;10/12/2025;6000000.0
+Santiago Rodríguez;Meia Ofensivo;Uruguai;26;Botafogo FR;10/12/2025;5500000.0
+Rony;Centroavante;Brasil;30;Atlético Mineiro;10/12/2025;5000000.0
+Francis Amuzu;Ponta Esquerda;Bélgica;26;Grêmio FBPA;10/12/2025;5000000.0
+Ayrton Lucas;Lateral Esq.;Brasil;28;CR Flamengo;10/12/2025;5000000.0
+Erick Pulgar;Volante;Chile;31;CR Flamengo;10/12/2025;5000000.0
+Murilo;Zagueiro;Brasil;28;SE Palmeiras;10/12/2025;5000000.0
+Robinho Junior;Ponta Esquerda;Brasil;18;Santos FC;10/12/2025;5000000.0
+Jorginho;Volante;Itália;34;CR Flamengo;10/12/2025;5000000.0
+Ruan Pablo;Ponta Esquerda;Brasil;17;EC Bahia;10/12/2025;5000000.0
+Gabriel Menino;Meia Central;Brasil;25;Atlético Mineiro;10/12/2025;6000000.0
+Alexsander;Volante;Brasil;22;Atlético Mineiro;10/12/2025;6000000.0
+Tomás Cuello;Ponta Esquerda;Argentina;25;Atlético Mineiro;10/12/2025;6000000.0
+Alexandro Bernabei;Lateral Esq.;Argentina;25;SC Internacional;10/12/2025;6000000.0
+Gustavo Scarpa;Meia Ofensivo;Brasil;32;Atlético Mineiro;10/12/2025;6000000.0
+Kauã Prates;Lateral Esq.;Brasil;17;Cruzeiro EC;10/12/2025;6000000.0
+John Kennedy;Centroavante;Brasil;23;Fluminense FC;10/12/2025;6000000.0
+Facundo Bernal;Volante;Uruguai;22;Fluminense FC;10/12/2025;6000000.0
+Matheuzinho;Lateral Dir.;Brasil;25;SC Corinthians;10/12/2025;6000000.0
+Kayky;Ponta Direita;Brasil;22;EC Bahia;10/12/2025;6000000.0
+Matheus Martins;Ponta Esquerda;Brasil;22;Botafogo FR;10/12/2025;6000000.0
+Rodriguinho;Meia Ofensivo;Brasil;21;São Paulo FC;10/12/2025;6000000.0
+Ryan Francisco;Centroavante;Brasil;19;São Paulo FC;10/12/2025;6000000.0
+Khellven;Lateral Dir.;Brasil;24;SE Palmeiras;10/12/2025;6000000.0
+Marlon Freitas;Volante;Brasil;30;SE Palmeiras;10/12/2025;6000000.0
+Riquelme;Ponta Direita;Brasil;18;Fluminense FC;10/12/2025;6000000.0
+Santiago Rodríguez;Meia Ofensivo;Uruguai;26;Botafogo FR;10/12/2025;5500000.0
+Rony;Centroavante;Brasil;30;Atlético Mineiro;10/12/2025;5000000.0
+Francis Amuzu;Ponta Esquerda;Bélgica;26;Grêmio FBPA;10/12/2025;5000000.0
+Ayrton Lucas;Lateral Esq.;Brasil;28;CR Flamengo;10/12/2025;5000000.0
+Erick Pulgar;Volante;Chile;31;CR Flamengo;10/12/2025;5000000.0
+Murilo;Zagueiro;Brasil;28;SE Palmeiras;10/12/2025;5000000.0
+Robinho Junior;Ponta Esquerda;Brasil;18;Santos FC;10/12/2025;5000000.0
+Jorginho;Volante;Itália;34;CR Flamengo;10/12/2025;5000000.0
+Ruan Pablo;Ponta Esquerda;Brasil;17;EC Bahia;10/12/2025;5000000.0
+Gabriel Menino;Meia Central;Brasil;25;Atlético Mineiro;10/12/2025;6000000.0
+Alexsander;Volante;Brasil;22;Atlético Mineiro;10/12/2025;6000000.0
+Tomás Cuello;Ponta Esquerda;Argentina;25;Atlético Mineiro;10/12/2025;6000000.0
+Alexandro Bernabei;Lateral Esq.;Argentina;25;SC Internacional;10/12/2025;6000000.0
+Gustavo Scarpa;Meia Ofensivo;Brasil;32;Atlético Mineiro;10/12/2025;6000000.0
+Kauã Prates;Lateral Esq.;Brasil;17;Cruzeiro EC;10/12/2025;6000000.0
+John Kennedy;Centroavante;Brasil;23;Fluminense FC;10/12/2025;6000000.0
+Facundo Bernal;Volante;Uruguai;22;Fluminense FC;10/12/2025;6000000.0
+Matheuzinho;Lateral Dir.;Brasil;25;SC Corinthians;10/12/2025;6000000.0
+Kayky;Ponta Direita;Brasil;22;EC Bahia;10/12/2025;6000000.0
+Matheus Martins;Ponta Esquerda;Brasil;22;Botafogo FR;10/12/2025;6000000.0
+Rodriguinho;Meia Ofensivo;Brasil;21;São Paulo FC;10/12/2025;6000000.0
+Ryan Francisco;Centroavante;Brasil;19;São Paulo FC;10/12/2025;6000000.0
+Khellven;Lateral Dir.;Brasil;24;SE Palmeiras;10/12/2025;6000000.0
+Marlon Freitas;Volante;Brasil;30;SE Palmeiras;10/12/2025;6000000.0
+Riquelme;Ponta Direita;Brasil;18;Fluminense FC;10/12/2025;6000000.0
+Santiago Rodríguez;Meia Ofensivo;Uruguai;26;Botafogo FR;10/12/2025;5500000.0
+Rony;Centroavante;Brasil;30;Atlético Mineiro;10/12/2025;5000000.0
+Francis Amuzu;Ponta Esquerda;Bélgica;26;Grêmio FBPA;10/12/2025;5000000.0
+Ayrton Lucas;Lateral Esq.;Brasil;28;CR Flamengo;10/12/2025;5000000.0
+Erick Pulgar;Volante;Chile;31;CR Flamengo;10/12/2025;5000000.0
+Murilo;Zagueiro;Brasil;28;SE Palmeiras;10/12/2025;5000000.0
+Robinho Junior;Ponta Esquerda;Brasil;18;Santos FC;10/12/2025;5000000.0
+Jorginho;Volante;Itália;34;CR Flamengo;10/12/2025;5000000.0
+Ruan Pablo;Ponta Esquerda;Brasil;17;EC Bahia;10/12/2025;5000000.0
+Gabriel Menino;Meia Central;Brasil;25;Atlético Mineiro;10/12/2025;6000000.0
+Alexsander;Volante;Brasil;22;Atlético Mineiro;10/12/2025;6000000.0
+Tomás Cuello;Ponta Esquerda;Argentina;25;Atlético Mineiro;10/12/2025;6000000.0
+Alexandro Bernabei;Lateral Esq.;Argentina;25;SC Internacional;10/12/2025;6000000.0
+Gustavo Scarpa;Meia Ofensivo;Brasil;32;Atlético Mineiro;10/12/2025;6000000.0
+Kauã Prates;Lateral Esq.;Brasil;17;Cruzeiro EC;10/12/2025;6000000.0
+John Kennedy;Centroavante;Brasil;23;Fluminense FC;10/12/2025;6000000.0
+Facundo Bernal;Volante;Uruguai;22;Fluminense FC;10/12/2025;6000000.0
+Matheuzinho;Lateral Dir.;Brasil;25;SC Corinthians;10/12/2025;6000000.0
+Kayky;Ponta Direita;Brasil;22;EC Bahia;10/12/2025;6000000.0
+Matheus Martins;Ponta Esquerda;Brasil;22;Botafogo FR;10/12/2025;6000000.0
+Rodriguinho;Meia Ofensivo;Brasil;21;São Paulo FC;10/12/2025;6000000.0
+Ryan Francisco;Centroavante;Brasil;19;São Paulo FC;10/12/2025;6000000.0
+Khellven;Lateral Dir.;Brasil;24;SE Palmeiras;10/12/2025;6000000.0
+Marlon Freitas;Volante;Brasil;30;SE Palmeiras;10/12/2025;6000000.0
+Riquelme;Ponta Direita;Brasil;18;Fluminense FC;10/12/2025;6000000.0
+Santiago Rodríguez;Meia Ofensivo;Uruguai;26;Botafogo FR;10/12/2025;5500000.0
+Rony;Centroavante;Brasil;30;Atlético Mineiro;10/12/2025;5000000.0
+Francis Amuzu;Ponta Esquerda;Bélgica;26;Grêmio FBPA;10/12/2025;5000000.0
+Ayrton Lucas;Lateral Esq.;Brasil;28;CR Flamengo;10/12/2025;5000000.0
+Erick Pulgar;Volante;Chile;31;CR Flamengo;10/12/2025;5000000.0
+Murilo;Zagueiro;Brasil;28;SE Palmeiras;10/12/2025;5000000.0
+Robinho Junior;Ponta Esquerda;Brasil;18;Santos FC;10/12/2025;5000000.0
+Jorginho;Volante;Itália;34;CR Flamengo;10/12/2025;5000000.0
+Ruan Pablo;Ponta Esquerda;Brasil;17;EC Bahia;10/12/2025;5000000.0
+Gabriel Menino;Meia Central;Brasil;25;Atlético Mineiro;10/12/2025;6000000.0
+Alexsander;Volante;Brasil;22;Atlético Mineiro;10/12/2025;6000000.0
+Tomás Cuello;Ponta Esquerda;Argentina;25;Atlético Mineiro;10/12/2025;6000000.0
+Alexandro Bernabei;Lateral Esq.;Argentina;25;SC Internacional;10/12/2025;6000000.0
+Gustavo Scarpa;Meia Ofensivo;Brasil;32;Atlético Mineiro;10/12/2025;6000000.0
+Kauã Prates;Lateral Esq.;Brasil;17;Cruzeiro EC;10/12/2025;6000000.0
+John Kennedy;Centroavante;Brasil;23;Fluminense FC;10/12/2025;6000000.0
+Facundo Bernal;Volante;Uruguai;22;Fluminense FC;10/12/2025;6000000.0
+Matheuzinho;Lateral Dir.;Brasil;25;SC Corinthians;10/12/2025;6000000.0
+Kayky;Ponta Direita;Brasil;22;EC Bahia;10/12/2025;6000000.0
+Matheus Martins;Ponta Esquerda;Brasil;22;Botafogo FR;10/12/2025;6000000.0
+Rodriguinho;Meia Ofensivo;Brasil;21;São Paulo FC;10/12/2025;6000000.0
+Ryan Francisco;Centroavante;Brasil;19;São Paulo FC;10/12/2025;6000000.0
+Khellven;Lateral Dir.;Brasil;24;SE Palmeiras;10/12/2025;6000000.0
+Marlon Freitas;Volante;Brasil;30;SE Palmeiras;10/12/2025;6000000.0
+Riquelme;Ponta Direita;Brasil;18;Fluminense FC;10/12/2025;6000000.0
+Santiago Rodríguez;Meia Ofensivo;Uruguai;26;Botafogo FR;10/12/2025;5500000.0
+Rony;Centroavante;Brasil;30;Atlético Mineiro;10/12/2025;5000000.0
+Francis Amuzu;Ponta Esquerda;Bélgica;26;Grêmio FBPA;10/12/2025;5000000.0
+Ayrton Lucas;Lateral Esq.;Brasil;28;CR Flamengo;10/12/2025;5000000.0
+Erick Pulgar;Volante;Chile;31;CR Flamengo;10/12/2025;5000000.0
+Murilo;Zagueiro;Brasil;28;SE Palmeiras;10/12/2025;5000000.0
+Robinho Junior;Ponta Esquerda;Brasil;18;Santos FC;10/12/2025;5000000.0
+Jorginho;Volante;Itália;34;CR Flamengo;10/12/2025;5000000.0
+Ruan Pablo;Ponta Esquerda;Brasil;17;EC Bahia;10/12/2025;5000000.0
