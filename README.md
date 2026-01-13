@@ -23,5 +23,12 @@ This project is a Python-based **ETL (Extract, Transform, Load)** solution desig
 * `data_merger.py`: Core logic for merging and cleaning disparate datasets.
 * `objects.py`: Python classes defining the data models.
 
+##⚙️ Setup Instructions
+1.Clone the repository to your local machine.
+2.Install the dependencies listed in requirements.txt using pip install -r requirements.txt.
+3.Run the scrapers (scraper_stats.py and scraper_values.py) to extract the latest football data into the /data folder.
+4.Execute data_merger.py to process and unify the datasets using fuzzy matching logic.
+5.Open the Power BI dashboard located at dashboard/scout_bi.pbix to visualize the results.
+
 ## 📧 Contact
 Nathan Chaia | [LinkedIn](https://www.linkedin.com/in/nathan-chaia-ba57773a2)
